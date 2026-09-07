@@ -1,0 +1,26 @@
+# ModelSim / QuestaSim generated files
+work/
+transcript
+vsim.wlf
+wlft*
+*.wlf
+*.qdb
+*.qpg
+*.qtl
+*.vstf
+*.log
+modelsim.ini
+
+# ModelSim project and user settings
+*.mpf
+*.mti
+
+# Backup and editor files
+*.bak
+*~
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
